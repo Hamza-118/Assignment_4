@@ -1,0 +1,67 @@
+.header {
+    background-color: #d50000;
+    text-decoration: white;
+}
+.consultancy {
+    text-align: center;   
+}
+.cost {
+color: indigo;
+padding-top: 8px;
+}
+.paragraph{
+    text-align: justify;
+    color: gray;
+    font-style: italic;
+}
+
+.arrow{
+position: fixed;
+bottom: 10px;
+right: 30px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 39, 46);
+    width: 1320px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.footer .container-fluid .row .col-md-4{
+    margin-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+.copyright, .copyright .row{
+    background-color: #3452EB; 
+    text-align: left;
+    font-size: small;
+    padding-left: 50px;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.container-fluid .row .our{
+    font-family: merriweather;
+    padding-left: 2px;
+}
+.col-md-4{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.serviceimg1{
+    padding-right: 10px;
+}
+.serviceimg2{
+padding-right: 10px;
+} 
+.serviceimg3{
+    padding-right: 10px;
+} 
+.serviceimg4{
+    padding-right: 10px;
+}
+.background{
+    background-color: #eeeeee;
+}

@@ -1,0 +1,129 @@
+#navbar {
+    background-color: #03a9f4 !important;
+    opacity: 0.9;
+}
+.header {
+    background-color: #d50000;
+    color: white;
+    height: 35px ;
+}
+#navbarText {
+    padding-left: 200px !important;
+}
+.navbar-brand {
+    padding-left: 20px;
+}
+.navigation ul li:hover {
+    background-color: #316DC3;
+}
+.quote {
+    text-align: center;
+    padding-bottom: 2px;
+}
+.carousel-inner, .carousel-item active, .carousel-item, .carousel-item {
+    width: 20px;
+}
+.videos1 {
+    text-align: center;
+    padding-top: 20px;
+}
+.videos2 {
+    text-align: center;
+    padding-top: 4px;
+}
+.videolog {
+    text-align: center;
+    padding-top: 8px;
+}
+.reviews {
+text-align: center;
+padding-top: 16px;
+}
+.subreviews {
+    padding-left: 30px;
+}
+.posts{
+    
+    padding-bottom: 30px;
+    background-color: #eeeeee;
+}
+html{
+    scroll-behavior: smooth;
+}
+.background{
+background-color: #eeeeee;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+.videoback{
+background-color: #eeeeee;
+opacity: 0.9;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+.background .reviews .fas {
+    font-size: 100px;
+}
+.arrow{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 39, 46);
+    width: 1320px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.footer .container-fluid .row .col-md-4{
+    margin-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+.copyright, .copyright .row{
+    background-color: #3452EB; 
+    text-align: left;
+    font-size: small;
+    padding-left: 50px;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.contact-form-text:focus{
+    box-shadow: 0 0 10px 6px #34495e;
+}
+.commentbox{
+    margin-left: 700px;
+    width: 400px;
+}
+textarea.contact-form-text{
+    resize: none;
+    height: 120px;
+}
+.contact-form-btn{
+    float: right;
+    border: 0;
+    background: #34495e;
+    color: #fff;
+    padding: 12px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5s;    
+}
+    .contact-form-btn:hover{
+    background: #2980b9;
+}
+.contact-form-text{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: #111;
+    padding: 20px 40px;
+    color: #ddd;
+    outline: none;
+    transition: 0.5s;
+}

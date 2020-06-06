@@ -1,0 +1,131 @@
+.header {
+    background-color: #d50000;
+    text-decoration: white;
+}
+#navbarText {
+    padding-left: 200px;
+}
+.navbar-brand {
+    padding-left: 20px;
+}
+.navigation ul li:hover {
+    background-color: #316DC3;
+}
+.contact {
+    text-align: center;
+}
+.contactus {
+    text-align: center;
+}
+.arrow{
+position: fixed;
+bottom: 10px;
+right: 30px;
+}
+.map{
+ text-align: center;
+ padding-top: 10px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 39, 46);
+    width: 1320px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.footer .container-fluid .row .col-md-4{
+    margin-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+.copyright, .copyright .row{
+    background-color: #3452EB; 
+    text-align: left;
+    font-size: small;
+    padding-left: 50px;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.background{
+    background-color: #eeeeee;
+padding-top: 8px;
+padding-bottom: 8px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "montserrat", sans-serif;
+}
+.contact-section{
+    background-size: cover;
+    background: url(mountain.jpg) no-repeat center;
+    padding: 40px;
+}
+.contact-section h1{
+    text-align: center;
+    color: #ddd;
+}
+.border{
+    width: 100px;
+    height: 10px;
+    background: #34495e;
+    margin: 40px auto;
+}
+.contact-form{
+    max-width: 600px;
+    margin: auto;
+    overflow: hidden;
+}
+.contact-form-text{
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    background: #111;
+    padding: 20px 40px;
+    color: #ddd;
+    outline: none;
+    transition: 0.5s;
+}
+.contact-form-text:focus{
+box-shadow: 0 0 10px 6px #34495e;
+}
+textarea.contact-form-text{
+    resize: none;
+    height: 120px;
+}
+.contact-form-btn{
+float: right;
+border: 0;
+background: #34495e;
+color: #fff;
+padding: 12px 50px;
+border-radius: 20px;
+cursor: pointer;
+transition: 0.5s;    
+}
+.contact-form-btn:hover{
+background: #2980b9;
+}
+.phone{
+    text-align: center;
+}
+.container-fluid .row .col-md-3 .whatsapp{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 40px;
+}
+.fb{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 40px;   
+}
+.email{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 40px;   
+
+}

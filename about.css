@@ -1,0 +1,62 @@
+.header {
+    background-color: #d50000;
+    text-decoration: white;
+}
+
+.about {
+    text-align: center;
+color: blue;
+}
+.moreinfo {
+    text-align: center;
+    padding-top: 8px ;
+}
+.arrow{
+position: fixed;
+bottom: 10px;
+right: 30px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 39, 46);
+    width: 1320px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.footer .container-fluid .row .col-md-4{
+    margin-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+.copyright, .copyright .row{
+    background-color: #3452EB; 
+    text-align: left;
+    font-size: small;
+    padding-left: 50px;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.background{
+    background-color: #eeeeee;
+}
+.vc{
+    padding-right: 10px;
+    padding-top: 4px;
+}
+.bashan{
+    padding-bottom: 10px;
+}
+.team{
+    border-radius: 50%;
+padding-bottom: 8px;
+}
+.container-fluid .row .col-md-5{
+    padding-left: 250px;
+    padding-bottom: 40px;
+}
+.container-fluid .row .col-md-4{
+    padding-bottom: 20px;
+    padding-left: 80px;
+}

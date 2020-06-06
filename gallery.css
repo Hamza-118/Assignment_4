@@ -1,0 +1,55 @@
+.header {
+    background-color: #d50000;
+    text-decoration: white;
+}
+#navbarText {
+    padding-left: 200px;
+}
+.navbar-brand {
+    padding-left: 20px;
+}
+.navigation ul li:hover {
+    background-color: #316DC3;
+}
+.gallery{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.images {
+    text-align: center;
+}
+.galeryimage1, .galeryimage2, .galeryimage3, .galeryimage4, .galeryimage5 {
+    text-align: center;
+    padding-bottom: 4px;
+}
+.arrow{
+position: fixed;
+bottom: 10px;
+right: 30px;
+}
+.footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(37, 39, 46);
+    width: 1320px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.footer .container-fluid .row .col-md-4{
+    margin-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 40px;
+}
+.copyright, .copyright .row{
+    background-color: #3452EB; 
+    text-align: left;
+    font-size: small;
+    padding-left: 50px;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+}
+.background{
+    background-color: #eeeeee;
+}
